@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Hugo Estevam Longo  
 
-<!--
-**hugoestevam/hugoestevam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🤝🏻 Connect with Me </h3>
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/twitter/follow/hugoestevam?style=social)](https://twitter.com/hugoestevam) [![Github Badge](https://img.shields.io/github/followers/hugoestevam?style=social)](https://github.com/hugoestevam) [![Linkedin Badge](https://img.shields.io/badge/-hugoestevam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoestevam/)](https://www.linkedin.com/in/hugoestevam/) [![Medium Badge](https://img.shields.io/badge/-HugoEstevam-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://hugoestevam.medium.com/)](https://hugoestevam.medium.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a software engineering manager 👨‍💻 who is passionate about innovation and digital transformation. I love to deeply understand the business needs of a customer to build a very efficient solution for integrating innovative technology with proven architecture. 
+
+- 🔭 I’m currently working mainly with corporate modules to develop web platforms and I use Micro Frontends and Microservices for that 
+- 🌱 I’m currently learning how to promote career growth and level of happiness of the team
+- 💬 Ask me about: tech, biz and farm
+- 😄 Pronouns: he/him
+-  ⚡ Languages: C#, TypeScript, JS, Python, SQL
+
+
+> Software Engineering Manager at [NDD - Tech](https://ndd.tech)
+
