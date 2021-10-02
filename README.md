@@ -7,7 +7,7 @@
 
 I'm a software engineering manager 👨‍💻 who is passionate about innovation and digital transformation. I love to deeply understand the business needs of a customer to build a very efficient solution for integrating innovative technology with proven architecture. 
 
-- 🔭 I’m currently working mainly with corporate modules to develop web platforms and I use Micro Frontends and Microservices for that 
+- 🔭 I’m currently working mainly with corporate modules to develop platforms and I use Microfrontends and Microservices for that 
 - 🌱 I’m currently learning how to promote career growth and level of happiness of the team
 - 💬 Ask me about: tech, biz and farm
 - 😄 Pronouns: he/him
