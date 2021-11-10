@@ -11,7 +11,8 @@ I'm a software engineering manager 👨‍💻 who is passionate about innovatio
 - 🌱 I’m currently learning how to promote career growth and level of happiness of the team
 - 💬 Ask me about: tech, biz and farm
 - 😄 Pronouns: he/him
--  ⚡ Languages: C#, TypeScript, JS, Python, SQL
+- ⚡ I've been working: C#, TypeScript, JS, Python, SQL
+- 🔻 I've already worked: C++, VB, Java, PHP, Delphi
 
 
 > Software Engineering Manager at [NDD - Tech](https://ndd.tech)
